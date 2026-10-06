@@ -1,5 +1,9 @@
 # 万缕千丝 · 角色培养推荐表
 
+[**在线打开角色培养表**](https://rollingaiwj0520-ux.github.io/fefw-character-guide/)
+
+可以将在线地址发到微信，用手机浏览。手机上点击物品、支线、外传标签即可查看获取步骤。
+
 [**点击直接下载角色培养表**](https://github.com/rollingaiwj0520-ux/fefw-character-guide/releases/latest/download/fefw-character-guide.html)
 
 无需登录 GitHub。下载后用浏览器打开 `fefw-character-guide.html` 即可使用，头像、样式、脚本和角色数据均包含在文件中。
